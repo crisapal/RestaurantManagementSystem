@@ -1,0 +1,14 @@
+ BILL
+
+ Order NO. 1
+ TABLE NO. 4
+ Date: 13/05/2020 23:50:26
+
+
+ Ordered items:
+
+ * mar      5.0lei 
+ * salata de fructe      10.0lei 
+ 
+
+ TOTAL: 15.0
